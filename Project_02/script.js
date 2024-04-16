@@ -16,7 +16,6 @@ form.addEventListener("submit", (e) => {
         document.querySelector("#weight-guide").innerHTML = "Normal Weight";
     }
     if (bmi > 24.9) {
-        console.log(bmi);
         document.querySelector("#weight-guide").innerHTML = "Over Weight";
     }
 });
