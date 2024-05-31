@@ -11,6 +11,6 @@ let bubbleSort = (arr) => {
     return arr;
 };
 
-let arr = [5, 16, 4, 52, 7, 1, 6, 85];
-console.log(bubbleSort(arr));
-
+const arr = [5, 16, 4, 52, 7, 1, 6, 85];
+const sortedArray = bubbleSort(arr);
+console.log(sortedArray);

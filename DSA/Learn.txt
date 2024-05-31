@@ -1,0 +1,38 @@
+## DSA Roadmap ##
+==> Time and Space complexity
+
+==> Basic DSA
+	=> String & Array
+	=> Linked List
+	=> Stack & Queue
+
+==> Advanced DSA
+	=> Trees
+	=> Heaps
+	=> Graphs
+
+
+==> Basic Algorithms 
+	=> Sorting
+		=> Bubble
+		=> Selection
+		=> Insertion
+		=> Merge
+		=> Quick
+	=> Searching
+		=> Linear & Binary Search
+		=> DFS & BFS in graph
+
+==> Advanced Algorithms
+	=> Dynamic
+		=> Overlapping Sub-Problems
+		=> Memoization
+		=> Tabulation
+
+	=> Greedy
+		=> Concepts, Examples
+
+	=> Anonymous 
+		=> Back Tracking
+		=> Shortest Path
+		=> Minimum Spanning Tree
