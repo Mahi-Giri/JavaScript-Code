@@ -41,5 +41,5 @@ function bubbleSort(str) {
 }
 
 let str = "Mahesh Giri";
-let sortedStr = bubbleSort(str);
+let sortedStr = bubbleSort(str.toLowerCase());
 console.log(sortedStr);
